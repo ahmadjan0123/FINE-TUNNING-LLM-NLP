@@ -1,0 +1,5 @@
+Q&A - simple project  of q and a
+embedding - embedding simple code
+resturant q &a : a simple bot for resturant
+word2vec: simple code to perfrom word to vector embedding
+practice file: a practice file to practice all the mini fun project
